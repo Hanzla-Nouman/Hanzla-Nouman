@@ -1,6 +1,8 @@
-<h2 align="center">"Welcome to my GitHub profile! I'm Hanxla Nouman, a passionate MERN stack developer on a journey to craft innovative web solutions. With expertise in MongoDB, Express.js, React.js, and Node.js, I thrive on building dynamic and user-friendly applications. Explore my projects, contributions, and collaborations to discover the exciting world of MERN development!"</h2>
+<h2 align="center">"Welcome to my GitHub profile!</h2>
 
-###
+
+<h3 align="center">"Welcome to my GitHub profile! I'm Hanxla Nouman, a passionate MERN stack developer on a journey to craft innovative web solutions. With expertise in MongoDB, Express.js, React.js, and Node.js, I thrive on building dynamic and user-friendly applications. Explore my projects, contributions, and collaborations to discover the exciting world of MERN development!"</h3>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hanzla-Nouman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
