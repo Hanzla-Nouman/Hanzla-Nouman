@@ -1,7 +1,7 @@
 <h2 align="center">"Welcome to my GitHub profile!</h2>
 
 
-<h3 align="center">"I'm Hanxla Nouman, a passionate MERN stack developer on a journey to craft innovative web solutions. With expertise in MongoDB, Express.js, React.js, and Node.js, I thrive on building dynamic and user-friendly applications. Explore my projects, contributions, and collaborations to discover the exciting world of MERN development!"</h3>
+<h3 align="center"></h3>
 
 
 <div align="center">
